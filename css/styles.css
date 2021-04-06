@@ -1,0 +1,29 @@
+.centered{
+margin: auto;
+width: 85%;
+}
+#words{
+font-size: 1.3em;
+}
+img{
+    display: block;
+margin-right: auto;
+margin-left: auto;
+ max-width: 100%;
+height: auto;
+}
+.div{
+
+}
+h1{
+font-size: 2em;
+text-align: center;
+}
+h2{
+font-size: 1.7em;
+text-align: center;
+
+}
+body{
+background-color: palevioletred;
+}
